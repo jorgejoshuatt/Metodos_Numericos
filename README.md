@@ -1,10 +1,10 @@
-# Métodos Numéricos.
+# Métodos Numéricos
 
-Programas y tareas realizados en clase de Métodos numéricos en la Facultad de Estudios Superiores Aragón.
+Programas y tareas realizadas en clase de Métodos numéricos en la Facultad de Estudios Superiores Aragón.
 
 ## Construido con 🛠️
 
-* Python
+* [Python](https://www.python.org) 🐍
 
 ## Autores ✒️
 
